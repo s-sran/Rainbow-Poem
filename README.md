@@ -4,6 +4,7 @@ Red
 Orange
 Yellow
 Green
+Indigo
 Unicorn
 Blue
 Puple
