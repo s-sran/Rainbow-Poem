@@ -10,4 +10,4 @@ Puple
 Pink
 Violet
 These are the colours of the rainbow and the Unicorn.
-Pony
+Ponies
